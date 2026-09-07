@@ -76,7 +76,6 @@ try {
 
 return ( <div className="app"> <header className="hero"> <div className="badge">✨ AI Powered</div>
 
-```
     <h1>SMART PRODUCT DISCOVERY</h1>
 
     <h2>Find the right product with AI.</h2>
@@ -251,8 +250,6 @@ return ( <div className="app"> <header className="hero"> <div className="badge">
     </section>
   </main>
 </div>
-
-
 );
 }
 
