@@ -11,7 +11,7 @@ const scored = products.map((product) => {
 let score = 0;
 const reasons = [];
 
-```
+
 // Price matching
 const priceMatch = text.match(
   /(?:under|below|less than|within)\s*\$?(\d+)/i
@@ -141,7 +141,7 @@ return {
       ? reasons.slice(0, 2).join(" and ")
       : "Good overall match for your request",
 };
-```
+
 
 });
 
